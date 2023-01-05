@@ -28,7 +28,7 @@ class ExperienceController extends Controller
      */
     public function create()
     {
-        return view('view.experiences/create-experience');
+        return view('view-experiences.create-experience');
     }
 
     /**
